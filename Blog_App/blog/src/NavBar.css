@@ -1,0 +1,17 @@
+
+.navbar {
+    padding: 10px;
+  }
+  
+  .navbar-brand {
+    cursor: pointer;
+  }
+  
+  .nav-link {
+    cursor: pointer;
+    margin-left: 10px;
+  }
+  
+  .btn-outline-primary {
+    margin-left: 10px;
+  }
